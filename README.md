@@ -1,4 +1,4 @@
-Description
+#Description
 This is a simple weather application that provides users with current weather information for a specified location. It utilizes a weather API to fetch real-time weather data and presents it in a user-friendly interface.
 
 Features
@@ -10,4 +10,4 @@ Frontend: HTML, CSS, JavaScript
 Framework/Libraries: React.js
 API: Weather API
 Version Control: Git, GitHub
-Installation
+
